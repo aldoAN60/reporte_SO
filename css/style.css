@@ -11,3 +11,4 @@ label{ border-collapse: collapse; display: inline; text-align: center;}
 
 table{  border-collapse: collapse; width: 500px; background-color: gray;}
 tr, th{border: 1px solid black;}
+body{background-color: white;}
