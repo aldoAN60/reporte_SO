@@ -1,0 +1,13 @@
+h1,h3{
+  background-color: rgb(5, 44, 21 ); text-align: center;
+}
+input{ 
+  
+  border-collapse: collapse;
+  text-align: center; width: 150px;
+background-color: #808080;}
+
+label{ border-collapse: collapse; display: inline; text-align: center;}
+
+table{  border-collapse: collapse; width: 500px; background-color: gray;}
+tr, th{border: 1px solid black;}
